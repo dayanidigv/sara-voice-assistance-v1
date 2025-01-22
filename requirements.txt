@@ -1,0 +1,16 @@
+opencv-python
+selenium
+pyttsx3
+SpeechRecognition
+requests
+wikipedia
+pillow
+plyer
+pywin32
+screen-brightness-control
+pycaw
+pyjokes
+keyboard
+bs4
+tqdm
+tk

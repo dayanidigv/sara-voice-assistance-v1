@@ -21,7 +21,8 @@ Sara is a voice-activated assistant that can perform various tasks such as respo
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/dayanidigv/sara-voice-assistance-v1.git sara
+cd sara
 ```
 
 ### **2. Install Dependencies**
